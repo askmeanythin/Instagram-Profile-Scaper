@@ -19,6 +19,12 @@ This Python script automates the process of logging into Instagram and downloadi
 
 ## 📁 Folder Structure
 
+## NEEDED MODULE:
+  -selenium
+  -webdriver-manager	
+  -requests
+  -beautifulsoup4
+
 ## DISCLAIMER
   -This is my First Repository . It will be having many bugs. In time I will update and try to reduce.
 
