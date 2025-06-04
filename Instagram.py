@@ -197,9 +197,9 @@ def visit_each_post_and_download(post_links):
 
 def main():
     # Use environment variables or input for credentials
-    username = 'am.priyanshu006'  # Replace with actual
-    password = '9818000895'  # Replace with actual
-    profile_username = 'ananya_557singh'  # Replace with actual
+    username = '"YOUR USERNAME'  # Replace with actual
+    password = 'YOUR PASSWORD'  # Replace with actual
+    profile_username = 'TARGET USERNAME'  # Replace with actual
     
     # Create main download directory
     os.makedirs("downloads", exist_ok=True)
